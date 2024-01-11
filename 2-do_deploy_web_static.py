@@ -9,7 +9,7 @@ env.hosts = ["54.209.131.56", "100.25.192.224"]
 
 
 def do_deploy(archive_path):
-    """script (based on the file 1-pack_web_static.py) 
+    """script (based on the file 1-pack_web_static.py)
         -that distributes an archive to your web servers.
 
     Args:
